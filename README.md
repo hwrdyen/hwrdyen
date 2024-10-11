@@ -26,12 +26,12 @@ When I’m not coding, I’m probably following the latest NBA game 🏀 or work
 			<h3 align="center">Globtopia</h3>
 		</td>
 	</thead>
-	<tr width="100%"  height="350px" align="center">
+	<tr width="100%" align="center">
 		<td  width="50%" >
-			<img width="100%"  height="100%" object-fit="cover" alt="CribEstate" src="https://github.com/user-attachments/assets/bed94687-681c-4a49-b9b6-2b4b7005d236">
+			<img width="100%" object-fit="cover" alt="CribEstate" src="https://github.com/user-attachments/assets/bed94687-681c-4a49-b9b6-2b4b7005d236">
 		</td>
 		<td width="50%" >
-			<img width="100%"  height="100%" object-fit="cover" alt="Globtopia" src="https://github.com/hwrdyen/Globtopia-HotelBooking-App/assets/54991780/84cf94aa-08e0-4126-910d-a457698b88a5">
+			<img width="100% object-fit="cover" alt="Globtopia" src="https://github.com/hwrdyen/Globtopia-HotelBooking-App/assets/54991780/84cf94aa-08e0-4126-910d-a457698b88a5">
 		</td>
 	</tr>
 	<tr height="350px">
