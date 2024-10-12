@@ -10,7 +10,7 @@ I’m a driven engineer with a focus on building impactful software solutions.�
 
 From frontend development to backend engineering, I love tackling challenges with a holistic approach and crafting seamless user experiences.
 
-When I’m not coding, I’m probably following the latest NBA game 🏀 or working on my next side project!
+When I’m not coding, I’m probably following the latest NBA game 🏀!
 
 ### 📫 Let's Connect:
 <a href="https://linkedin.com/in/howardykx" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="howardykx" /></a> <a href="https://hwrdyen.netlify.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="howardykx" /></a>
